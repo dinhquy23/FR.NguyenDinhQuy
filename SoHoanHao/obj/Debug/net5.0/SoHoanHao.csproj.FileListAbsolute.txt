@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\bin\Debug\net5.0\SoHoanHao.exe
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\bin\Debug\net5.0\SoHoanHao.deps.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\bin\Debug\net5.0\SoHoanHao.runtimeconfig.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\bin\Debug\net5.0\SoHoanHao.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\bin\Debug\net5.0\SoHoanHao.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\bin\Debug\net5.0\SoHoanHao.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\obj\Debug\net5.0\SoHoanHao.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\obj\Debug\net5.0\SoHoanHao.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\obj\Debug\net5.0\SoHoanHao.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\obj\Debug\net5.0\SoHoanHao.AssemblyInfo.cs
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\obj\Debug\net5.0\SoHoanHao.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\obj\Debug\net5.0\SoHoanHao.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\obj\Debug\net5.0\refint\SoHoanHao.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\obj\Debug\net5.0\SoHoanHao.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\obj\Debug\net5.0\SoHoanHao.genruntimeconfig.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\SoHoanHao\obj\Debug\net5.0\ref\SoHoanHao.dll
