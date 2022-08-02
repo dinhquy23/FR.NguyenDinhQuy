@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\String\\TestString.csproj": {}
+    "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\String\\TestString.csproj": {}
   },
   "projects": {
-    "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\String\\TestString.csproj": {
+    "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\String\\TestString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\String\\TestString.csproj",
+        "projectUniqueName": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\String\\TestString.csproj",
         "projectName": "TestString",
-        "projectPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\String\\TestString.csproj",
+        "projectPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\String\\TestString.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\String\\obj\\",
+        "outputPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\String\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

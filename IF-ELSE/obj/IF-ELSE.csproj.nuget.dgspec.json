@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\IF-ELSE\\IF-ELSE.csproj": {}
+    "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\IF-ELSE\\IF-ELSE.csproj": {}
   },
   "projects": {
-    "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\IF-ELSE\\IF-ELSE.csproj": {
+    "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\IF-ELSE\\IF-ELSE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\IF-ELSE\\IF-ELSE.csproj",
+        "projectUniqueName": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\IF-ELSE\\IF-ELSE.csproj",
         "projectName": "IF-ELSE",
-        "projectPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\IF-ELSE\\IF-ELSE.csproj",
+        "projectPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\IF-ELSE\\IF-ELSE.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\IF-ELSE\\obj\\",
+        "outputPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\IF-ELSE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

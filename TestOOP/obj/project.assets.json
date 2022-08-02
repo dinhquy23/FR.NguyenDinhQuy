@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\TestOOP\\TestOOP.csproj",
+      "projectUniqueName": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\TestOOP\\TestOOP.csproj",
       "projectName": "TestOOP",
-      "projectPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\TestOOP\\TestOOP.csproj",
+      "projectPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\TestOOP\\TestOOP.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\TestOOP\\obj\\",
+      "outputPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\TestOOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

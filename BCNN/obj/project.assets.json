@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\BCNN\\BCNN.csproj",
+      "projectUniqueName": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\BCNN\\BCNN.csproj",
       "projectName": "BCNN",
-      "projectPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\BCNN\\BCNN.csproj",
+      "projectPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\BCNN\\BCNN.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\BCNN\\obj\\",
+      "outputPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\BCNN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

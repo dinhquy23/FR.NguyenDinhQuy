@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\Array2Chieu\\Array2Chieu.csproj": {}
+    "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\Array2Chieu\\Array2Chieu.csproj": {}
   },
   "projects": {
-    "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\Array2Chieu\\Array2Chieu.csproj": {
+    "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\Array2Chieu\\Array2Chieu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\Array2Chieu\\Array2Chieu.csproj",
+        "projectUniqueName": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\Array2Chieu\\Array2Chieu.csproj",
         "projectName": "Array2Chieu",
-        "projectPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\Array2Chieu\\Array2Chieu.csproj",
+        "projectPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\Array2Chieu\\Array2Chieu.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\Array2Chieu\\obj\\",
+        "outputPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\Array2Chieu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,5 @@
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\PhanSo.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\PhanSo.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\PhanSo.AssemblyInfo.cs
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\PhanSo.csproj.CoreCompileInputs.cache

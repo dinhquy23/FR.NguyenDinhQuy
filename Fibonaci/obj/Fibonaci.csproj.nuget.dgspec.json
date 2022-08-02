@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\Fibonaci\\Fibonaci.csproj": {}
+    "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\Fibonaci\\Fibonaci.csproj": {}
   },
   "projects": {
-    "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\Fibonaci\\Fibonaci.csproj": {
+    "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\Fibonaci\\Fibonaci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\Fibonaci\\Fibonaci.csproj",
+        "projectUniqueName": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\Fibonaci\\Fibonaci.csproj",
         "projectName": "Fibonaci",
-        "projectPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\Fibonaci\\Fibonaci.csproj",
+        "projectPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\Fibonaci\\Fibonaci.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\Fibonaci\\obj\\",
+        "outputPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\Fibonaci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

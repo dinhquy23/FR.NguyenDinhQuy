@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\DemoDateTime\\DemoDateTime.csproj",
+      "projectUniqueName": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\DemoDateTime\\DemoDateTime.csproj",
       "projectName": "DemoDateTime",
-      "projectPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\DemoDateTime\\DemoDateTime.csproj",
+      "projectPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\DemoDateTime\\DemoDateTime.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\NTQ_Fresher\\FR_NguyenDinhQuy\\DemoDateTime\\obj\\",
+      "outputPath": "D:\\NTQ_Fresher\\FR.NguyenDinhQuy\\DemoDateTime\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

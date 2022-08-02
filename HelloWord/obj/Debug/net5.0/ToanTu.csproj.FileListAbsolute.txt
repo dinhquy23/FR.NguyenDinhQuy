@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\bin\Debug\net5.0\ToanTu.exe
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\bin\Debug\net5.0\ToanTu.deps.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\bin\Debug\net5.0\ToanTu.runtimeconfig.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\bin\Debug\net5.0\ToanTu.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\bin\Debug\net5.0\ToanTu.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\bin\Debug\net5.0\ToanTu.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\ToanTu.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\ToanTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\ToanTu.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\ToanTu.AssemblyInfo.cs
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\ToanTu.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\ToanTu.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\refint\ToanTu.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\ToanTu.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\ToanTu.genruntimeconfig.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\ref\ToanTu.dll

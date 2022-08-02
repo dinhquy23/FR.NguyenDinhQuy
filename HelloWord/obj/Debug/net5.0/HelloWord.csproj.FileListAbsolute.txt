@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\bin\Debug\net5.0\HelloWord.exe
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\bin\Debug\net5.0\HelloWord.deps.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\bin\Debug\net5.0\HelloWord.runtimeconfig.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\bin\Debug\net5.0\HelloWord.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\bin\Debug\net5.0\HelloWord.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\bin\Debug\net5.0\HelloWord.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\HelloWord.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\HelloWord.AssemblyInfo.cs
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\HelloWord.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\HelloWord.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\refint\HelloWord.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\HelloWord.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\HelloWord.genruntimeconfig.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\HelloWord\obj\Debug\net5.0\ref\HelloWord.dll
