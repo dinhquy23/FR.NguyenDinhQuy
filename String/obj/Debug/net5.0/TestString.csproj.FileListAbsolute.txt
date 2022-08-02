@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\bin\Debug\net5.0\TestString.exe
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\bin\Debug\net5.0\TestString.deps.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\bin\Debug\net5.0\TestString.runtimeconfig.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\bin\Debug\net5.0\TestString.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\bin\Debug\net5.0\TestString.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\bin\Debug\net5.0\TestString.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\obj\Debug\net5.0\TestString.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\obj\Debug\net5.0\TestString.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\obj\Debug\net5.0\TestString.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\obj\Debug\net5.0\TestString.AssemblyInfo.cs
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\obj\Debug\net5.0\TestString.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\obj\Debug\net5.0\TestString.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\obj\Debug\net5.0\refint\TestString.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\obj\Debug\net5.0\TestString.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\obj\Debug\net5.0\TestString.genruntimeconfig.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\String\obj\Debug\net5.0\ref\TestString.dll
