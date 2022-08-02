@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\bin\Debug\net5.0\TestOOP.exe
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\bin\Debug\net5.0\TestOOP.deps.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\bin\Debug\net5.0\TestOOP.runtimeconfig.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\bin\Debug\net5.0\TestOOP.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\bin\Debug\net5.0\TestOOP.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\bin\Debug\net5.0\TestOOP.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\obj\Debug\net5.0\TestOOP.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\obj\Debug\net5.0\TestOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\obj\Debug\net5.0\TestOOP.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\obj\Debug\net5.0\TestOOP.AssemblyInfo.cs
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\obj\Debug\net5.0\TestOOP.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\obj\Debug\net5.0\TestOOP.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\obj\Debug\net5.0\refint\TestOOP.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\obj\Debug\net5.0\TestOOP.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\obj\Debug\net5.0\TestOOP.genruntimeconfig.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\TestOOP\obj\Debug\net5.0\ref\TestOOP.dll
