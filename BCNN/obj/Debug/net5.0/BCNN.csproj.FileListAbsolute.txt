@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\bin\Debug\net5.0\BCNN.exe
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\bin\Debug\net5.0\BCNN.deps.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\bin\Debug\net5.0\BCNN.runtimeconfig.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\bin\Debug\net5.0\BCNN.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\bin\Debug\net5.0\BCNN.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\bin\Debug\net5.0\BCNN.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\obj\Debug\net5.0\BCNN.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\obj\Debug\net5.0\BCNN.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\obj\Debug\net5.0\BCNN.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\obj\Debug\net5.0\BCNN.AssemblyInfo.cs
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\obj\Debug\net5.0\BCNN.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\obj\Debug\net5.0\BCNN.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\obj\Debug\net5.0\refint\BCNN.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\obj\Debug\net5.0\BCNN.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\obj\Debug\net5.0\BCNN.genruntimeconfig.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\BCNN\obj\Debug\net5.0\ref\BCNN.dll
