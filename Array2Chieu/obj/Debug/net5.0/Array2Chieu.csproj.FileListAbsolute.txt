@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\bin\Debug\net5.0\Array2Chieu.exe
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\bin\Debug\net5.0\Array2Chieu.deps.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\bin\Debug\net5.0\Array2Chieu.runtimeconfig.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\bin\Debug\net5.0\Array2Chieu.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\bin\Debug\net5.0\Array2Chieu.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\bin\Debug\net5.0\Array2Chieu.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\obj\Debug\net5.0\Array2Chieu.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\obj\Debug\net5.0\Array2Chieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\obj\Debug\net5.0\Array2Chieu.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\obj\Debug\net5.0\Array2Chieu.AssemblyInfo.cs
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\obj\Debug\net5.0\Array2Chieu.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\obj\Debug\net5.0\Array2Chieu.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\obj\Debug\net5.0\refint\Array2Chieu.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\obj\Debug\net5.0\Array2Chieu.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\obj\Debug\net5.0\Array2Chieu.genruntimeconfig.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array2Chieu\obj\Debug\net5.0\ref\Array2Chieu.dll
