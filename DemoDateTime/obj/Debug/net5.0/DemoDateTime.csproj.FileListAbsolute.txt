@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\bin\Debug\net5.0\DemoDateTime.exe
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\bin\Debug\net5.0\DemoDateTime.deps.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\bin\Debug\net5.0\DemoDateTime.runtimeconfig.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\bin\Debug\net5.0\DemoDateTime.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\bin\Debug\net5.0\DemoDateTime.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\bin\Debug\net5.0\DemoDateTime.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\obj\Debug\net5.0\DemoDateTime.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\obj\Debug\net5.0\DemoDateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\obj\Debug\net5.0\DemoDateTime.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\obj\Debug\net5.0\DemoDateTime.AssemblyInfo.cs
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\obj\Debug\net5.0\DemoDateTime.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\obj\Debug\net5.0\DemoDateTime.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\obj\Debug\net5.0\refint\DemoDateTime.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\obj\Debug\net5.0\DemoDateTime.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\obj\Debug\net5.0\DemoDateTime.genruntimeconfig.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\DemoDateTime\obj\Debug\net5.0\ref\DemoDateTime.dll
