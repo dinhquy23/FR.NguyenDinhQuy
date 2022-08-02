@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\bin\Debug\net5.0\IF-ELSE.exe
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\bin\Debug\net5.0\IF-ELSE.deps.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\bin\Debug\net5.0\IF-ELSE.runtimeconfig.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\bin\Debug\net5.0\IF-ELSE.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\bin\Debug\net5.0\IF-ELSE.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\bin\Debug\net5.0\IF-ELSE.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\obj\Debug\net5.0\IF-ELSE.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\obj\Debug\net5.0\IF-ELSE.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\obj\Debug\net5.0\IF-ELSE.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\obj\Debug\net5.0\IF-ELSE.AssemblyInfo.cs
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\obj\Debug\net5.0\IF-ELSE.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\obj\Debug\net5.0\IF-ELSE.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\obj\Debug\net5.0\refint\IF-ELSE.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\obj\Debug\net5.0\IF-ELSE.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\obj\Debug\net5.0\IF-ELSE.genruntimeconfig.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\IF-ELSE\obj\Debug\net5.0\ref\IF-ELSE.dll
