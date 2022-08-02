@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\bin\Debug\net5.0\Array.exe
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\bin\Debug\net5.0\Array.deps.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\bin\Debug\net5.0\Array.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\bin\Debug\net5.0\Array.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\obj\Debug\net5.0\Array.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\obj\Debug\net5.0\refint\Array.dll
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\obj\Debug\net5.0\Array.pdb
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
+D:\NTQ_Fresher\FR_NguyenDinhQuy\Array\obj\Debug\net5.0\ref\Array.dll
