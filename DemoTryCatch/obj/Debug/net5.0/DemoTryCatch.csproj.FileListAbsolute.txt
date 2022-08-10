@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\bin\Debug\net5.0\DemoTryCatch.exe
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\bin\Debug\net5.0\DemoTryCatch.deps.json
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\bin\Debug\net5.0\DemoTryCatch.runtimeconfig.json
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\bin\Debug\net5.0\DemoTryCatch.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\bin\Debug\net5.0\DemoTryCatch.dll
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\bin\Debug\net5.0\DemoTryCatch.pdb
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.AssemblyInfo.cs
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.dll
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\obj\Debug\net5.0\refint\DemoTryCatch.dll
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.pdb
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\obj\Debug\net5.0\DemoTryCatch.genruntimeconfig.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoTryCatch\obj\Debug\net5.0\ref\DemoTryCatch.dll

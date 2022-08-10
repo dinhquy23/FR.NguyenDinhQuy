@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\bin\Debug\net5.0\DemoDelegate.exe
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\bin\Debug\net5.0\DemoDelegate.deps.json
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\bin\Debug\net5.0\DemoDelegate.runtimeconfig.json
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\bin\Debug\net5.0\DemoDelegate.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\bin\Debug\net5.0\DemoDelegate.dll
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\bin\Debug\net5.0\DemoDelegate.pdb
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\obj\Debug\net5.0\DemoDelegate.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\obj\Debug\net5.0\DemoDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\obj\Debug\net5.0\DemoDelegate.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\obj\Debug\net5.0\DemoDelegate.AssemblyInfo.cs
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\obj\Debug\net5.0\DemoDelegate.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\obj\Debug\net5.0\DemoDelegate.dll
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\obj\Debug\net5.0\refint\DemoDelegate.dll
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\obj\Debug\net5.0\DemoDelegate.pdb
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\obj\Debug\net5.0\DemoDelegate.genruntimeconfig.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DemoDelegate\obj\Debug\net5.0\ref\DemoDelegate.dll
