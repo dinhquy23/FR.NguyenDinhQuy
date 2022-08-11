@@ -19,11 +19,11 @@ namespace DemoDelegate
 		//	Nhận sự kiện từ Family
 		public void ReceiveNotify(Family family)
         {
-			family.CallToNotify+= GetNotify;
+			family.CallToNotify+= Visit;
         }
 
 		//	Thông báo sẽ ghé thăm
-		public void GetNotify()
+		public void Visit()
         {
 			Console.Write($"{this.Name} will visit\n");
         }
