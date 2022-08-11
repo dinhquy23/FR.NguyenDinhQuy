@@ -19,7 +19,7 @@ namespace DemoDelegate
             Register = register;
         }
 
-        //	Nhận sự kiện từ Family qua hành động CallToNotify (gia đình gọi điện thông báo) và thực hiện hành động Visit() để ghé thăm
+        //	Nhận sự kiện từ Family qua hành động CallToNotify (gia đình gọi điện thông báo) và thực hiện hành động Visit()
         public void ReceiveNotify(Family family)
         {
 			family.CallToNotify += Visit;
