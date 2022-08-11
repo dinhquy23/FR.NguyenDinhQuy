@@ -7,25 +7,22 @@ namespace DemoDelegate
         public delegate void MyFamilyEventHandler(object sender, EventArgs e);
         private static void Main(string[] args)
         {
-			//create new family:
 			Family family = new Family("Adams");
 
-			//create a friend:
-			Friend Ed = new Friend("Ed");
+            Friend friend1 = new Friend("Nguyen Van A");
+            Friend friend2 = new Friend("Nguyen Van B");
+            Friend friend3 = new Friend("Nguyen Van C");
+            Friend friend4 = new Friend("Nguyen Van D");
 
-			//assign the family to the friend:
-			Ed.Family = family;
+            //  Đăng ký nhận thông báo
+            friend1.ReceiveNotify(family);
+            friend2.ReceiveNotify(family);
+            friend4.ReceiveNotify(family);
 
-			//create another friend:
-			Friend Alex = new Friend("Alex");
-
-			//assign the family to the friend:
-			Alex.Family = family;
-
-            //baby is born
+            //  Sự kiện đứa trẻ sinh ra
             family.BabyBorn();
 
-            Console.Read();
+            Console.ReadLine();
 		}
     }
     

@@ -7,9 +7,10 @@ using static DemoDelegate.Program;
 
 namespace DemoDelegate
 {
+    public delegate void Notify();
     public class Family
     {
-        public event MyFamilyEventHandler OnBabyBorn;
+        public Notify CallToNotify { get; set; }
         public string Name { get; set; }
 
         public Family(string name)
@@ -18,10 +19,8 @@ namespace DemoDelegate
         }
         public void BabyBorn()
         {
-            if (OnBabyBorn!=null)
-            {
-                OnBabyBorn(Name, new EventArgs());
-            }
+            //  Phát đi sự kiện
+            CallToNotify?.Invoke();
         }
     }
 }
