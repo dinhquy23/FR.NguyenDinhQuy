@@ -4,7 +4,6 @@ namespace DemoDelegate
 {
     public class Program
     {
-        public delegate void MyFamilyEventHandler(object sender, EventArgs e);
         private static void Main(string[] args)
         {
 			Family family = new Family("Adams");
