@@ -27,7 +27,7 @@ namespace ToanTu
             //    Console.Write("Phan tu - {0}: ", i);
             //    arr1[i] = Convert.ToInt32(Console.ReadLine());
             //}
-
+       
             //Console.Write("\nNhap vi tri can xoa: ");
             //pos = Convert.ToInt32(Console.ReadLine());
             ///* xac dinh vi tri cua i trong mang*/

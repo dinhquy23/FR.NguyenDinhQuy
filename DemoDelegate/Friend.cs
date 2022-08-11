@@ -22,10 +22,10 @@ namespace DemoDelegate
 			family.CallToNotify+= Visit;
         }
 
-		//	Thông báo sẽ ghé thăm
+		//	Thông báo bạn có thể ghé thăm
 		public void Visit()
         {
-			Console.Write($"{this.Name} will visit\n");
+			Console.Write($"The baby was born. {this.Name} can visit\n");
         }
 	}
 }

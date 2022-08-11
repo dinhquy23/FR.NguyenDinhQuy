@@ -20,7 +20,6 @@ namespace DemoDelegate
 
             //  Sự kiện đứa trẻ sinh ra
             family.BabyBorn();
-
             Console.ReadLine();
 		}
     }
