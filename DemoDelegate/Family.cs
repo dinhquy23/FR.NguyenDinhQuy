@@ -19,7 +19,7 @@ namespace DemoDelegate
         }
         public void BabyBorn()
         {
-            Console.Write($"The baby was born on {DateTime.Now}\n");
+            Console.Write($"The baby was born on {DateTime.Now}\n\n");
 
             //  Phát đi sự kiện đứa bé được sinh ra
             CallToNotify?.Invoke();

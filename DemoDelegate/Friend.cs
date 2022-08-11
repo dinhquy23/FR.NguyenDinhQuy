@@ -11,15 +11,18 @@ namespace DemoDelegate
     {
 		public string Name { get; set; }
 
-		public Friend(string name)
-		{
-			Name = name;
-		}
+        public bool Register { get; set; }
 
-		//	Nhận sự kiện từ Family
-		public void ReceiveNotify(Family family)
+        public Friend(string name, bool register)
         {
-			family.CallToNotify+= Visit;
+            Name = name;
+            Register = register;
+        }
+
+        //	Nhận sự kiện từ Family qua hành động CallToNotify (gia đình gọi điện thông báo) và thực hiện hành động Visit() để ghé thăm
+        public void ReceiveNotify(Family family)
+        {
+			family.CallToNotify += Visit;
         }
 
 		//	Thông báo bạn có thể ghé thăm

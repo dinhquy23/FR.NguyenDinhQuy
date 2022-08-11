@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace DemoDelegate
 {
@@ -6,23 +7,31 @@ namespace DemoDelegate
     {
         private static void Main(string[] args)
         {
-			Family family = new Family("Adams");
+            Family family = new Family("Van A");
 
-            Friend friend1 = new Friend("Nguyen Van A");
-            Friend friend2 = new Friend("Nguyen Van B");
-            Friend friend3 = new Friend("Nguyen Van C");
-            Friend friend4 = new Friend("Nguyen Van D");
+            List<Friend> listFriends = new()
+            {
+                new Friend("Nguyen Van B",true),
+                new Friend("Nguyen Van C",false),
+                new Friend("Nguyen Van D",true),
+                new Friend("Nguyen Thi E",true)
+            };
 
-            //  Đăng ký nhận thông báo
-            friend1.ReceiveNotify(family);
-            friend2.ReceiveNotify(family);
-            friend4.ReceiveNotify(family);
+            foreach (var item in listFriends)
+            {
+                if (item.Register)
+                {
+                    //  Nếu bạn đã đăng ký tới thăm, bạn sẽ nhận được thông báo từ gia đình ngay khi đứa trẻ được sinh ra
+                    item.ReceiveNotify(family);
+                }
+            }
 
             //  Sự kiện đứa trẻ sinh ra
             family.BabyBorn();
+
             Console.ReadLine();
-		}
+        }
     }
-    
+
 
 }
