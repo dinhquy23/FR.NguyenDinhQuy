@@ -26,6 +26,9 @@ namespace LamdaExpression
             };
         }
 
+        /// <summary>
+        /// In ra màn hình các Employee có ID > 10
+        /// </summary>
         public void Method1()
         {
             var results = employees.Where(x => x.ID > 10);
@@ -34,6 +37,10 @@ namespace LamdaExpression
                 Console.Write($"{item.ToString()}\n");
             }
         }
+
+        /// <summary>
+        /// In ra màn hình các Employee có ID > 10 và tên bắt đầu bằng chữ C
+        /// </summary>
         public void Method2()
         {
             var results = employees.Where(x => x.ID > 10&&x.Name.StartsWith('C'));
@@ -42,6 +49,10 @@ namespace LamdaExpression
                 Console.Write($"{item.ToString()}\n");
             }
         }
+
+        /// <summary>
+        /// In ra màn hình Employee đầu tiên có Năm sinh = 1992
+        /// </summary>
         public void Method3()
         {
             try
