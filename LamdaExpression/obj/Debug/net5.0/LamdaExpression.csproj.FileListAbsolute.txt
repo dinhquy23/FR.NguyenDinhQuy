@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\bin\Debug\net5.0\LamdaExpression.exe
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\bin\Debug\net5.0\LamdaExpression.deps.json
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\bin\Debug\net5.0\LamdaExpression.runtimeconfig.json
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\bin\Debug\net5.0\LamdaExpression.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\bin\Debug\net5.0\LamdaExpression.dll
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\bin\Debug\net5.0\LamdaExpression.pdb
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\obj\Debug\net5.0\LamdaExpression.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\obj\Debug\net5.0\LamdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\obj\Debug\net5.0\LamdaExpression.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\obj\Debug\net5.0\LamdaExpression.AssemblyInfo.cs
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\obj\Debug\net5.0\LamdaExpression.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\obj\Debug\net5.0\LamdaExpression.dll
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\obj\Debug\net5.0\refint\LamdaExpression.dll
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\obj\Debug\net5.0\LamdaExpression.pdb
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\obj\Debug\net5.0\LamdaExpression.genruntimeconfig.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\LamdaExpression\obj\Debug\net5.0\ref\LamdaExpression.dll

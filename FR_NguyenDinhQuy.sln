@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoTryCatch", "DemoTryCatc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoDelegate", "DemoDelegate\DemoDelegate.csproj", "{8A55E47C-FFE8-40C2-8B5E-0C770CAF2DF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungEvent", "SuDungEvent\SuDungEvent.csproj", "{4EA41BCF-A0B6-41CD-B093-E546B991F965}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuDungEvent", "SuDungEvent\SuDungEvent.csproj", "{4EA41BCF-A0B6-41CD-B093-E546B991F965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamdaExpression", "LamdaExpression\LamdaExpression.csproj", "{2FCA9F9D-8100-4BC8-AB0A-C16B49AA69F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{4EA41BCF-A0B6-41CD-B093-E546B991F965}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EA41BCF-A0B6-41CD-B093-E546B991F965}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EA41BCF-A0B6-41CD-B093-E546B991F965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCA9F9D-8100-4BC8-AB0A-C16B49AA69F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCA9F9D-8100-4BC8-AB0A-C16B49AA69F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCA9F9D-8100-4BC8-AB0A-C16B49AA69F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCA9F9D-8100-4BC8-AB0A-C16B49AA69F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +124,7 @@ Global
 		{FAA7FC1E-58FE-4EA8-B64F-A31AC76F6643} = {13CCAD08-DAD9-40EA-ACD2-40310EFD0E95}
 		{8A55E47C-FFE8-40C2-8B5E-0C770CAF2DF5} = {13CCAD08-DAD9-40EA-ACD2-40310EFD0E95}
 		{4EA41BCF-A0B6-41CD-B093-E546B991F965} = {13CCAD08-DAD9-40EA-ACD2-40310EFD0E95}
+		{2FCA9F9D-8100-4BC8-AB0A-C16B49AA69F8} = {13CCAD08-DAD9-40EA-ACD2-40310EFD0E95}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE43652E-6436-45CD-9112-A2A955622C2F}
