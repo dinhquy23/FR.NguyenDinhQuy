@@ -8,7 +8,7 @@ namespace LamdaExpression
 {
     public class Service
     {
-        private readonly static List<Employee> employees =new List<Employee>();
+        private readonly static List<Employee> employees = new List<Employee>();
         static Service()
         {
             employees = new List<Employee>()
@@ -31,8 +31,8 @@ namespace LamdaExpression
         /// </summary>
         public void Method1()
         {
-            var results = employees.Where(x => x.ID > 10);
-            foreach(var item in results)
+            var results = employees.Hehe(x => x.ID > 10);
+            foreach (var item in results)
             {
                 Console.Write($"{item.ToString()}\n");
             }
@@ -43,7 +43,7 @@ namespace LamdaExpression
         /// </summary>
         public void Method2()
         {
-            var results = employees.Where(x => x.ID > 10&&x.Name.StartsWith('C'));
+            var results = employees.Hehe(x => x.ID > 10 && x.Name.StartsWith('C'));
             foreach (var item in results)
             {
                 Console.Write($"{item.ToString()}\n");
@@ -57,10 +57,10 @@ namespace LamdaExpression
         {
             try
             {
-                var result = employees.FirstOrDefault(x => x.Birthday.Year == 1992);
+                var result = employees.Haha(x => x.Birthday.Year == 1992);
                 Console.Write($"{result.ToString()}\n");
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
