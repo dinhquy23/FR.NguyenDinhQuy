@@ -8,10 +8,10 @@ namespace LamdaExpression
 {
     public static class ExtensionMethods
     {
-        public static IEnumerable<T> Hehe<T>(this  List<T> employees,Func<T,bool> predicate)
+        public static IEnumerable<T> Hehe<T>(this  IEnumerable<T> source,Func<T,bool> predicate)
         {
             List<T> result = new List<T>();
-            foreach(var item in employees)
+            foreach(var item in source)
             {
                 if(predicate(item))
                 {
@@ -21,10 +21,10 @@ namespace LamdaExpression
             return result;
         }
 
-        public static T? Haha<T>(this List<T> employees, Func<T, bool> predicate)
+        public static T? Haha<T>(this IEnumerable<T> source, Func<T, bool> predicate)
         {
             List<T> result = new List<T>();
-            foreach (var item in employees)
+            foreach (var item in source)
             {
                 if (predicate(item))
                 {
@@ -41,5 +41,17 @@ namespace LamdaExpression
                 return result[0];
             }
         }
+        //public static IEnumerable<T> SelectCustom<T>(this List<T> employees, Func<T, bool> selector)
+        //{
+        //    List<T> result = new List<T>();
+        //    foreach (var item in employees)
+        //    {
+        //        if (selector(item))
+        //        {
+        //            result.Add(item);
+        //        }
+        //    }
+        //    return result;
+        //}
     }
 }

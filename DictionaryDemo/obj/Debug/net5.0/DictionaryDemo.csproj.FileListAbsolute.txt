@@ -1,0 +1,16 @@
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\bin\Debug\net5.0\DictionaryDemo.exe
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\bin\Debug\net5.0\DictionaryDemo.deps.json
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\bin\Debug\net5.0\DictionaryDemo.runtimeconfig.json
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\bin\Debug\net5.0\DictionaryDemo.runtimeconfig.dev.json
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\bin\Debug\net5.0\DictionaryDemo.dll
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\bin\Debug\net5.0\DictionaryDemo.pdb
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.csproj.AssemblyReference.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.AssemblyInfoInputs.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.AssemblyInfo.cs
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.csproj.CoreCompileInputs.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.dll
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\obj\Debug\net5.0\refint\DictionaryDemo.dll
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.pdb
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.genruntimeconfig.cache
+D:\NTQ_Fresher\FR.NguyenDinhQuy\DictionaryDemo\obj\Debug\net5.0\ref\DictionaryDemo.dll
